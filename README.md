@@ -1,3 +1,7 @@
 # Timestamp Microservice
 
-This is the boilerplate code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
+This is a project, REST-api building challenge for freecpdecamp back-end certification process.
+
+The boiler plate was provided by freecodecamp: <https://github.com/freeCodeCamp/boilerplate-project-timestamp?tab=readme-ov-file>
+
+The project is completed inside google IDX's environment.
